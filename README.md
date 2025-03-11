@@ -1,4 +1,5 @@
 # Interactive Trivia Game
+<img src="trivia_game_visual.webp" alt="Siamese Network Visualization" style="width:60%;">
 
 ## Overview
 
